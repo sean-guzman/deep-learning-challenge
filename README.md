@@ -2,7 +2,7 @@
 
 Sean Guzman
 
-Rutgers Data Sciences Bootcamp, Module 20 Challenge (25 July 2023)
+Rutgers Data Sciences Bootcamp, Module 21 Challenge (25 July 2023)
 
 ## Overview
 The purpose of this challenge is to create a deep learning model that can help select the applicants for funding with the best chance of success in their ventures for Applebet Soup, a non-profit organization.  we use Python (Jupyter Notebook) and load in a dataset and use the features to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
